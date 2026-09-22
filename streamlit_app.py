@@ -6,7 +6,13 @@ from google import genai
 from google.genai import types, errors
 
 load_dotenv()
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY"))
+
+api_key = os.getenv("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
+if not api_key:
+    st.error("GEMINI_API_KEY is missing. Add it under Settings → Secrets.")
+    st.stop()
+
+client = genai.Client(api_key=api_key)
 
 SYSTEM_PROMPT = (
     "You are Lipi, a friendly AI assistant. Reply in the same language and "
@@ -15,13 +21,21 @@ SYSTEM_PROMPT = (
     "short (under 150 words) unless the user asks for detail."
 )
 
-MODELS = ["gemini-3.1-flash-lite", "gemini-3.5-flash", "gemini-3.6-flash"]
+MODELS = ["gemini-3.1-flash-lite", "gemini-3.5-flash"]
 config = types.GenerateContentConfig(
     system_instruction=SYSTEM_PROMPT,
     thinking_config=types.ThinkingConfig(thinking_budget=0),
 )
 
 st.set_page_config(page_title="Lipi", page_icon="💬")
+
+st.markdown("""
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    </style>
+""", unsafe_allow_html=True)
+
 st.title("Lipi")
 st.caption("A friendly assistant for Kannada, Hindi, and Kanglish.")
 
