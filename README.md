@@ -6,7 +6,7 @@ Lipi went through three versions as I learned to build and deploy an LLM-powered
 
 1. **Terminal version** (`terminal-version/`) — a command-line chatbot with retry logic and model fallback
 2. **Gradio version** (`gradio-version/`) — a local chat UI built with Gradio
-3. **Streamlit version** (`streamlit_app.py`) — the deployed version, live at [link]
+3. **Streamlit version** (`streamlit_app.py`) — the deployed version, live at [https://lipi-kannada.streamlit.app/]
 
 ## Features
 
@@ -16,7 +16,7 @@ Lipi went through three versions as I learned to build and deploy an LLM-powered
 
 ## Live demo
 
-[https://lipi-yourname.streamlit.app](https://lipi-yourname.streamlit.app)
+[https://lipi-kannada.streamlit.app/]
 
 ## Run locally
 
