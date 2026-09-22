@@ -1,0 +1,70 @@
+id,question,expected,lipi_answer,correct (y/n/partial)
+1,Kannada sahityada modala kavi yaru?,Pampa (Adikavi),ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಮೊದಲ ಕವಿ **ಶ್ರೀವಿಜಯ**. ಇವರು ರಚಿಸಿದ 'ಕವಿರಾಜಮಾರ್ಗ' ಕನ್ನಡದ ಅತ್ಯಂತ ಹಳೆಯ ಉಪಲಬ್ಧ ಗ್ರಂಥವಾಗಿದೆ.,
+2,ಕರ್ನಾಟಕದ ರಾಜಧಾನಿ ಯಾವುದು?,Bengaluru,ಕರ್ನಾಟಕದ ರಾಜಧಾನಿ ಬೆಂಗಳೂರು.,
+3,"Who built the Hoysaleswara Temple, and where is it located?",Hoysala Empire (Vishnuvardhana era); Halebidu,"Hoysaleswara Temple was built by King Vishnuvardhana of the Hoysala Empire. It is located in Halebidu, in the Hassan district of Karnataka, India.",
+4,ಕರ್ನಾಟಕ ಏಕೀಕರಣ ಯಾವಾಗ ನಡೆಯಿತು?,1 November 1956,ಕರ್ನಾಟಕ ಏಕೀಕರಣವು **1956ರ ನವೆಂಬರ್ 1** ರಂದು ನಡೆಯಿತು. ಅಂದು ಮೈಸೂರು ರಾಜ್ಯದೊಂದಿಗೆ ಸುತ್ತಮುತ್ತಲ ಕನ್ನಡ ಭಾಷಿಕ ಪ್ರದೇಶಗಳನ್ನು ವಿಲೀನಗೊಳಿಸಿ ಏಕೀಕೃತ ಕರ್ನಾಟಕ ರಾಜ್ಯವನ್ನು ರಚಿಸಲಾಯಿತು.,
+5,Kannada rajyotsava yavaga aacharisalaguthade?,November 1st,ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವವನ್ನು ಪ್ರತಿ ವರ್ಷ **ನವೆಂಬರ್ 1** ರಂದು ಆಚರಿಸಲಾಗುತ್ತದೆ.,
+6,'Kavirajamarga' yaaru bareda kruti?,Attributed to King Nripatunga / poet Srivijaya,'ಕವಿರಾಜಮಾರ್ಗ' ಕೃತಿಯನ್ನು ರಾಷ್ಟ್ರಕೂಟ ದೊರೆ **ನೃಪತುಂಗ** (ಅಮೋಘವರ್ಷ ನೃಪತುಂಗ) ಬರೆದಿದ್ದಾನೆ ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ. ಕೆಲವರು ಇದನ್ನು ಶ್ರೀವಿಜಯ ಬರೆದಿದ್ದಾನೆ ಎಂದೂ ಅಭಿಪ್ರಾಯಪಡುತ್ತಾರೆ.,
+7,"Who wrote 'Ramayana Darshanam,' and which award did it win?",Kuvempu; Jnanpith (1967),'Ramayana Darshanam' was written by the renowned Kannada poet **Kuvempu** (K. V. Puttappa). It was the first Kannada work to win the prestigious **Jnanpith Award** in 1967.,
+8,कन्नड़ भाषा का पहला ज्ञानपीठ पुरस्कार विजेता कौन था?,Kuvempu,कन्नड़ भाषा के लिए पहला ज्ञानपीठ पुरस्कार **कुवेंपु (के. वी. पुट्टप्पा)** को मिला था। उन्हें यह पुरस्कार 1967 में उनके महाकाव्य 'श्री रामायण दर्शनम' के लिए दिया गया था।,
+9,Kannadadalli 'Jnanpith Award' pondiruva total ellamandi?,8,"ನಮಸ್ಕಾರ! ಕನ್ನಡ ಸಾಹಿತ್ಯ ಲೋಕದಲ್ಲಿ 'ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ'ಯನ್ನು ಇಲ್ಲಿಯವರೆಗೆ ಒಟ್ಟು **8** ಮಂದಿ ಸಾಹಿತಿಗಳು ಪಡೆದಿದ್ದಾರೆ. ಅವರ ಪಟ್ಟಿ ಇಲ್ಲಿದೆ:
+
+1. ಕುವೆಂಪು (1967)
+2. ದ. ರಾ. ಬೇಂದ್ರೆ (1973)
+3. ಶಿವರಾಮ ಕಾರಂತ (1977)
+4. ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ (1983)
+5. ವಿ. ಕೃ. ಗೋಕಾಕ (1990)
+6. ಯು. ಆರ್. ಅನಂತಮೂರ್ತಿ (1994)
+7. ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ (1998)
+8. ಚಂದ್ರಶೇಖರ ಕಂಬಾರ (2010)
+
+ಇವರು ಕನ್ನಡಕ್ಕೆ ಹೆಮ್ಮೆ ತಂದ ಸಾಧಕರು!",
+10,Kannada chitrarangada modala talkie chitra yaavudu?,Sati Sulochana (1934),ಕನ್ನಡ ಚಲನಚಿತ್ರರಂಗದ ಮೊದಲ ವಾಕ್ಚಿತ್ರ (Talkie movie) **'ಸತಿ ಸುಲೋಚನ'**. ಇದು 1934ರಲ್ಲಿ ಬಿಡುಗಡೆಯಾಯಿತು.,
+11,Dr. Rajkumar avara janma dinaanka mattu ooru yaavudu?,"April 24, 1929; Gajanur",ನಮಸ್ಕಾರ! ಡಾ. ರಾಜಕುಮಾರ್ ಅವರ ಜನ್ಮ ದಿನಾಂಕ 24 ಏಪ್ರಿಲ್ 1929. ಅವರು ಜನಿಸಿದ ಊರು ಗಾಜನೂರು (ಈಗಿನ ತಮಿಳುನಾಡಿನ ಈರೋಡ್ ಜಿಲ್ಲೆಯಲ್ಲಿದೆ).,
+12,Name a Kannada film that won the National Film Award for Best Feature Film.,"e.g., Samskara (1970), Vamsha Vriksha (1971), Thithi (2015)",ಕನ್ನಡದ 'ಸಂಸ್ಕಾರ' (1970) ಚಿತ್ರವು ಅತ್ಯುತ್ತಮ ಚಲನಚಿತ್ರಕ್ಕಾಗಿ ರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿಯನ್ನು ಗೆದ್ದ ಮೊದಲ ಕನ್ನಡ ಚಿತ್ರವಾಗಿದೆ. ಇದಲ್ಲದೆ 'ಚೋಮನ ದುಡಿ' ಮತ್ತು 'ಬಂಗಾರದ ಮನುಷ್ಯ'ದಂತಹ ಹಲವು ಅದ್ಭುತ ಚಿತ್ರಗಳು ಈ ಗೌರವವನ್ನು ಪಡೆದಿವೆ.,
+13,Kannada cinemada 'Crazy Star' endu karayalpaduva nataru yaaru?,V. Ravichandran,ಕನ್ನಡ ಚಿತ್ರರಂಗದಲ್ಲಿ 'ಕ್ರೇಜಿ ಸ್ಟಾರ್' ಎಂದು ಕರೆಯಲ್ಪಡುವ ನಟ **ವಿ. ರವಿಚಂದ್ರನ್** ಅವರು.,
+14,ಕರ್ನಾಟಕದ ಅತಿ ಎತ್ತರದ ಶಿಖರ ಯಾವುದು?,Mullayanagiri,ಕರ್ನಾಟಕದ ಅತಿ ಎತ್ತರದ ಶಿಖರ ಮುಳ್ಳಯ್ಯನಗಿರಿ. ಇದು ಚಿಕ್ಕಮಗಳೂರು ಜಿಲ್ಲೆಯಲ್ಲಿದೆ.,
+15,Karnatakadalli hariyuva mukhya nadigalu yaavuvu?,"Kaveri, Krishna, Tungabhadra, etc.","ನಮಸ್ಕಾರ! ಕರ್ನಾಟಕದಲ್ಲಿ ಹರಿಯುವ ಪ್ರಮುಖ ನದಿಗಳು ಇವು:
+
+೧. ಕಾವೇರಿ
+೨. ಕೃಷ್ಣಾ
+೩. ತುಂಗಭದ್ರಾ
+೪. ಶರಾವತಿ
+೫. ಹೇಮಾವತಿ
+೬. ಮಲಪ್ರಭಾ
+೭. ಘಟಪ್ರಭಾ
+೮. ನೇತ್ರಾವತಿ
+
+ಇವುಗಳಲ್ಲದೆ ಇನ್ನೂ ಅನೇಕ ಸಣ್ಣ ನದಿಗಳು ನಮ್ಮ ರಾಜ್ಯದಲ್ಲಿ ಹರಿಯುತ್ತವೆ. ನಿಮಗೆ ಯಾವುದಾದರೂ ನಿರ್ದಿಷ್ಟ ನದಿಯ ಬಗ್ಗೆ ಮಾಹಿತಿ ಬೇಕೇ?",
+16,Which Kannada-speaking region is famous for coffee plantations?,Chikmagalur / Kodagu,"ಕರ್ನಾಟಕದಲ್ಲಿ **ಚಿಕ್ಕಮಗಳೂರು**, **ಕೊಡಗು (ಕೊಡಗು)** ಮತ್ತು **ಹಾಸನ** ಜಿಲ್ಲೆಗಳು ಕಾಫಿ ತೋಟಗಳಿಗೆ ಬಹಳ ಪ್ರಸಿದ್ಧವಾಗಿವೆ. ಇವುಗಳಲ್ಲಿ ಚಿಕ್ಕಮಗಳೂರನ್ನು ಕರ್ನಾಟಕದ 'ಕಾಫಿ ನಾಡು' ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+17,ನಮಸ್ಕಾರ ಪದದ ಅರ್ಥ ಏನು?,A greeting/salutation,"ನಮಸ್ಕಾರ!
+
+'ನಮಸ್ಕಾರ' ಎಂದರೆ ""ನಾನು ನಿನಗೆ ನಮಿಸುತ್ತೇನೆ"" ಅಥವಾ ""ನಾನು ನಿನ್ನ ಗೌರವಿಸುತ್ತೇನೆ"" ಎಂದರ್ಥ. ಇದು ಸಂಸ್ಕೃತದ 'ನಮಸ್' ಎಂಬ ಪದದಿಂದ ಬಂದಿದೆ, ಅಂದರೆ 'ನಮ್ರನಾಗುವುದು' ಅಥವಾ 'ಶರಣಾಗುವುದು'.
+
+ಇದು ಭಾರತೀಯ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ಪರಸ್ಪರ ಗೌರವ ಮತ್ತು ಪ್ರೀತಿಯನ್ನು ವ್ಯಕ್ತಪಡಿಸುವ ಒಂದು ಸುಂದರವಾದ അഭിವಾದನ (greeting) ವಿಧಾನವಾಗಿದೆ.",
+18,Translate to Kannada: 'How are you?',ನೀವು ಹೇಗಿದ್ದೀರಾ?,ನೀವು ಹೇಗಿದ್ದೀರಿ? (Neevu heggiddiri?),
+19,"Explain in English: 'Naale nange time illa, busy iddini'","I don't have time tomorrow, I'm busy","""Naale nange time illa, busy iddini"" means:
+
+**""I don't have time tomorrow, I am busy.""**",
+20,What does 'ಗೊತ್ತಿಲ್ಲ' mean?,I don't know,"'ಗೊತ್ತಿಲ್ಲ' (Gottilla) ಎಂದರೆ ಕನ್ನಡದಲ್ಲಿ **""I don't know""** (ನನಗೆ ಗೊತ್ತಿಲ್ಲ) ಎಂದರ್ಥ.",
+21,Is there a real difference between 'Karnataka' and 'Kannada Naadu'?,Largely synonymous; poetic/cultural term,"ಹೌದು, ಇವೆರಡರ ನಡುವೆ ಸೂಕ್ಷ್ಮ ವ್ಯತ್ಯಾಸವಿದೆ.
+
+'ಕರ್ನಾಟಕ' ಎನ್ನುವುದು ನಮ್ಮ ರಾಜ್ಯದ ಅಧಿಕೃತ ಮತ್ತು ಸಾಂವಿಧಾನಿಕ ಹೆಸರು. ಇದು ಆಡಳಿತಾತ್ಮಕವಾಗಿ ಗುರುತಿಸಲ್ಪಟ್ಟ ಭೌಗೋಳಿಕ ಪ್ರದೇಶ.
+
+'ಕನ್ನಡ ನಾಡು' ಎನ್ನುವುದು ಭಾವನಾತ್ಮಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಹೆಸರು. ಕನ್ನಡ ಭಾಷೆಯನ್ನು ಮಾತನಾಡುವ ಜನರು ವಾಸಿಸುವ ಪ್ರದೇಶ ಅಥವಾ ಕನ್ನಡ ಸಂಸ್ಕೃತಿ ಹರಡಿರುವ ನಾಡನ್ನು ಪ್ರೀತಿಯಿಂದ 'ಕನ್ನಡ ನಾಡು' ಎಂದು ಕರೆಯುತ್ತಾರೆ.
+
+ಸರಳವಾಗಿ ಹೇಳಬೇಕೆಂದರೆ, 'ಕರ್ನಾಟಕ' ರಾಜ್ಯದ ಹೆಸರಾದರೆ, 'ಕನ್ನಡ ನಾಡು' ಎನ್ನುವುದು ನಮ್ಮ ಭಾಷೆ ಮತ್ತು ಸಂಸ್ಕೃತಿಯ ತವರು ಎಂಬ ಹೆಮ್ಮೆಯ ಸಂಕೇತ.",
+22,Yaava varshadalli Kannada 'Classical Language' status pondithu?,2008,ಕನ್ನಡ ಭಾಷೆಗೆ 2008ನೇ ಇಸವಿಯಲ್ಲಿ 'ಶಾಸ್ತ್ರೀಯ ಭಾಷೆ' (Classical Language) ಸ್ಥಾನಮಾನ ದೊರೆಯಿತು.,
+23,दक्षिण भारत में कन्नड़ भाषा किन राज्यों में बोली जाती है?,"Mainly Karnataka; also Maharashtra, Andhra Pradesh, Tamil Nadu border areas","नमस्ते! मुख्य रूप से कन्नड़ भाषा **कर्नाटक** राज्य में बोली जाती है। 
+
+इसके अलावा, कर्नाटक की सीमाओं से लगे पड़ोसी राज्यों के कुछ हिस्सों में भी कन्नड़ भाषी लोग रहते हैं, जैसे:
+*   आंध्र प्रदेश और तेलंगाना के सीमावर्ती जिले।
+*   तमिलनाडु (विशेषकर होसुर और आसपास के क्षेत्र)।
+*   केरल (कासरगोड जिला)।
+*   महाराष्ट्र (सोलापुर और सांगली जैसे सीमावर्ती क्षेत्र)। 
+
+लेकिन आधिकारिक तौर पर यह कर्नाटक की मुख्य राजभाषा है।",
+24,ಕರ್ನಾಟಕದ ರಾಜ್ಯ ಪಕ್ಷಿ ಯಾವುದು?,Indian Roller (ನೀಲಕಂಠ),ಕರ್ನಾಟಕದ ರಾಜ್ಯ ಪಕ್ಷಿ **ನೀಲಕಂಠ** (Indian Roller).,
+25,Kannada varnamale alli total svara (vowels) ettu?,13 (traditional count),"ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಒಟ್ಟು **13** ಸ್ವರಗಳಿವೆ.
+
+ಅವುಗಳೆಂದರೆ: ಅ, ಆ, ಇ, ಈ, ಉ, ಊ, ಋ, ಎ, ಏ, ಐ, ಒ, ಓ, ಔ.",
