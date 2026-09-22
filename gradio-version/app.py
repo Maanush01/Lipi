@@ -39,7 +39,6 @@ def build_contents(message, history):
     contents.append(types.Content(role="user", parts=[types.Part(text=message)]))
     return contents
 
-
 def lipi(message, history):
     contents = build_contents(message, history)
     last_error = None
