@@ -33,6 +33,12 @@ st.markdown("""
     <style>
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
+    header {visibility: hidden;}
+    [data-testid="stToolbar"] {visibility: hidden;}
+    [data-testid="stDecoration"] {visibility: hidden;}
+    .viewerBadge_container__1QSob {display: none;}
+    .viewerBadge_link__1S137 {display: none;}
+    a[href*="streamlit.io"] {display: none;}
     </style>
 """, unsafe_allow_html=True)
 
